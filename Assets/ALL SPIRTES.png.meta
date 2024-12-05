@@ -1,0 +1,8171 @@
+fileFormatVersion: 2
+guid: 298e79433e80ba241bd85f93c4b9ea54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7046233765289999336
+    second: ALL SPIRTES_0
+  - first:
+      213: 6903086630048729431
+    second: ALL SPIRTES_1
+  - first:
+      213: -8575059662581489837
+    second: ALL SPIRTES_2
+  - first:
+      213: 3071491755333640514
+    second: ALL SPIRTES_3
+  - first:
+      213: -2590536723149797400
+    second: ALL SPIRTES_4
+  - first:
+      213: 3276078945063267340
+    second: ALL SPIRTES_5
+  - first:
+      213: 5123939138067431346
+    second: ALL SPIRTES_6
+  - first:
+      213: 5057021125129617
+    second: ALL SPIRTES_7
+  - first:
+      213: 1745447194913479614
+    second: ALL SPIRTES_8
+  - first:
+      213: 3429639774306076992
+    second: ALL SPIRTES_9
+  - first:
+      213: -3420732816769924368
+    second: ALL SPIRTES_10
+  - first:
+      213: 5054287573972869606
+    second: ALL SPIRTES_11
+  - first:
+      213: -95507756415716292
+    second: ALL SPIRTES_12
+  - first:
+      213: 8755363919068279769
+    second: ALL SPIRTES_13
+  - first:
+      213: -7495898339087330354
+    second: ALL SPIRTES_14
+  - first:
+      213: -4522843487836548502
+    second: ALL SPIRTES_15
+  - first:
+      213: -5399600577969614756
+    second: ALL SPIRTES_16
+  - first:
+      213: 5050431235052414431
+    second: ALL SPIRTES_17
+  - first:
+      213: 6782569141120311337
+    second: ALL SPIRTES_18
+  - first:
+      213: -1936886814214233983
+    second: ALL SPIRTES_19
+  - first:
+      213: 4437169085525304968
+    second: ALL SPIRTES_20
+  - first:
+      213: -5958544861021325204
+    second: ALL SPIRTES_21
+  - first:
+      213: 8004130802763872881
+    second: ALL SPIRTES_22
+  - first:
+      213: 4760661011541455490
+    second: ALL SPIRTES_23
+  - first:
+      213: -3107669190726334574
+    second: ALL SPIRTES_24
+  - first:
+      213: -4670835563655817995
+    second: ALL SPIRTES_25
+  - first:
+      213: -8883762662847067235
+    second: ALL SPIRTES_26
+  - first:
+      213: 3196109408260841501
+    second: ALL SPIRTES_27
+  - first:
+      213: -1728367046105576537
+    second: ALL SPIRTES_28
+  - first:
+      213: -2804223012602468098
+    second: ALL SPIRTES_29
+  - first:
+      213: -7087872134603262719
+    second: ALL SPIRTES_30
+  - first:
+      213: -2500166308692067899
+    second: ALL SPIRTES_31
+  - first:
+      213: 5104262933376683489
+    second: ALL SPIRTES_32
+  - first:
+      213: -3090412343600385377
+    second: ALL SPIRTES_33
+  - first:
+      213: 496342947061789687
+    second: ALL SPIRTES_34
+  - first:
+      213: -6700494898404938277
+    second: ALL SPIRTES_35
+  - first:
+      213: -3397580877336038338
+    second: ALL SPIRTES_36
+  - first:
+      213: -3407182997010889375
+    second: ALL SPIRTES_37
+  - first:
+      213: -7750503891142849262
+    second: ALL SPIRTES_38
+  - first:
+      213: -5090221233843885132
+    second: ALL SPIRTES_39
+  - first:
+      213: -8792410180825247657
+    second: ALL SPIRTES_40
+  - first:
+      213: 2456040012550507038
+    second: ALL SPIRTES_41
+  - first:
+      213: 7530577162431700986
+    second: ALL SPIRTES_42
+  - first:
+      213: -4494692901313188954
+    second: ALL SPIRTES_43
+  - first:
+      213: 5532969819834727787
+    second: ALL SPIRTES_44
+  - first:
+      213: 595802822374773273
+    second: ALL SPIRTES_45
+  - first:
+      213: 3527098546354565288
+    second: ALL SPIRTES_46
+  - first:
+      213: -4531603417698530016
+    second: ALL SPIRTES_47
+  - first:
+      213: -6961881104441589316
+    second: ALL SPIRTES_48
+  - first:
+      213: -5381890532474307749
+    second: ALL SPIRTES_49
+  - first:
+      213: -1718722186883354691
+    second: ALL SPIRTES_50
+  - first:
+      213: -2892937828296563501
+    second: ALL SPIRTES_51
+  - first:
+      213: -7814134365344007772
+    second: ALL SPIRTES_52
+  - first:
+      213: 2551371862702404370
+    second: ALL SPIRTES_53
+  - first:
+      213: -8389125229148697584
+    second: ALL SPIRTES_54
+  - first:
+      213: 3475620357967886017
+    second: ALL SPIRTES_55
+  - first:
+      213: -7346143730845937060
+    second: ALL SPIRTES_56
+  - first:
+      213: 2538907837660639401
+    second: ALL SPIRTES_57
+  - first:
+      213: 6430857319988772948
+    second: ALL SPIRTES_58
+  - first:
+      213: 4129479002950915745
+    second: ALL SPIRTES_59
+  - first:
+      213: 7354746576182546461
+    second: ALL SPIRTES_60
+  - first:
+      213: -2632381729844139726
+    second: ALL SPIRTES_61
+  - first:
+      213: -5982474126295283498
+    second: ALL SPIRTES_62
+  - first:
+      213: 605877695843236203
+    second: ALL SPIRTES_63
+  - first:
+      213: 5610348310139494056
+    second: ALL SPIRTES_64
+  - first:
+      213: 4846511024566594445
+    second: ALL SPIRTES_65
+  - first:
+      213: 1096339702840801729
+    second: ALL SPIRTES_66
+  - first:
+      213: -5145904123737785555
+    second: ALL SPIRTES_67
+  - first:
+      213: 1569338323545185856
+    second: ALL SPIRTES_68
+  - first:
+      213: -4455491873170978709
+    second: ALL SPIRTES_69
+  - first:
+      213: 7691196747091986126
+    second: ALL SPIRTES_70
+  - first:
+      213: 1942120217328250095
+    second: ALL SPIRTES_71
+  - first:
+      213: -2575236834351640283
+    second: ALL SPIRTES_72
+  - first:
+      213: -7927062528459616181
+    second: ALL SPIRTES_73
+  - first:
+      213: -1777516979565081407
+    second: ALL SPIRTES_74
+  - first:
+      213: -4105079669146577996
+    second: ALL SPIRTES_75
+  - first:
+      213: -3170646725762262202
+    second: ALL SPIRTES_76
+  - first:
+      213: -3567586319296479283
+    second: ALL SPIRTES_77
+  - first:
+      213: -5171624761752910398
+    second: ALL SPIRTES_78
+  - first:
+      213: -981839788488922446
+    second: ALL SPIRTES_79
+  - first:
+      213: 7253703135413794867
+    second: ALL SPIRTES_80
+  - first:
+      213: -1773533228442756775
+    second: ALL SPIRTES_81
+  - first:
+      213: 26778790860055770
+    second: ALL SPIRTES_82
+  - first:
+      213: 2917756752282941670
+    second: ALL SPIRTES_83
+  - first:
+      213: 9098176596790105191
+    second: ALL SPIRTES_84
+  - first:
+      213: -4081199152696001564
+    second: ALL SPIRTES_85
+  - first:
+      213: -7431134993743789578
+    second: ALL SPIRTES_86
+  - first:
+      213: 5557237338758501659
+    second: ALL SPIRTES_87
+  - first:
+      213: 6394863071007349597
+    second: ALL SPIRTES_88
+  - first:
+      213: -344437825194150995
+    second: ALL SPIRTES_89
+  - first:
+      213: 4196241449715056557
+    second: ALL SPIRTES_90
+  - first:
+      213: -4916435639635617174
+    second: ALL SPIRTES_91
+  - first:
+      213: -3775902091269565661
+    second: ALL SPIRTES_92
+  - first:
+      213: 7718612142056052393
+    second: ALL SPIRTES_93
+  - first:
+      213: 27059213197003442
+    second: ALL SPIRTES_94
+  - first:
+      213: 6019245103647407417
+    second: ALL SPIRTES_95
+  - first:
+      213: -4287173339111669725
+    second: ALL SPIRTES_96
+  - first:
+      213: 3887207357383558828
+    second: ALL SPIRTES_97
+  - first:
+      213: 3251627678013823696
+    second: ALL SPIRTES_98
+  - first:
+      213: 5975329133061475676
+    second: ALL SPIRTES_99
+  - first:
+      213: -5188123640935078724
+    second: ALL SPIRTES_100
+  - first:
+      213: -7955824519749794968
+    second: ALL SPIRTES_101
+  - first:
+      213: -293408128717687527
+    second: ALL SPIRTES_102
+  - first:
+      213: 2819282260387190346
+    second: ALL SPIRTES_103
+  - first:
+      213: 1426657188514214673
+    second: ALL SPIRTES_104
+  - first:
+      213: 3482935211130676080
+    second: ALL SPIRTES_105
+  - first:
+      213: 628647342287923363
+    second: ALL SPIRTES_106
+  - first:
+      213: 4815911391466679270
+    second: ALL SPIRTES_107
+  - first:
+      213: -6414643957771878451
+    second: ALL SPIRTES_108
+  - first:
+      213: -2636071724700070536
+    second: ALL SPIRTES_109
+  - first:
+      213: 1878577340209787405
+    second: ALL SPIRTES_110
+  - first:
+      213: 8978572845513088264
+    second: ALL SPIRTES_111
+  - first:
+      213: -7528627992415043350
+    second: ALL SPIRTES_112
+  - first:
+      213: -6451814363695160983
+    second: ALL SPIRTES_113
+  - first:
+      213: 4957652867297366371
+    second: ALL SPIRTES_114
+  - first:
+      213: 610393625185525601
+    second: ALL SPIRTES_115
+  - first:
+      213: -2356732444666530708
+    second: ALL SPIRTES_116
+  - first:
+      213: 2898435837071623799
+    second: ALL SPIRTES_117
+  - first:
+      213: -7170140419324768914
+    second: ALL SPIRTES_118
+  - first:
+      213: -7123764562375308365
+    second: ALL SPIRTES_119
+  - first:
+      213: 753153370884247876
+    second: ALL SPIRTES_120
+  - first:
+      213: -6798772354298356088
+    second: ALL SPIRTES_121
+  - first:
+      213: -324881252140827890
+    second: ALL SPIRTES_122
+  - first:
+      213: -6811143267352481151
+    second: ALL SPIRTES_123
+  - first:
+      213: -7024040821071470090
+    second: ALL SPIRTES_124
+  - first:
+      213: 2142146074664339600
+    second: ALL SPIRTES_125
+  - first:
+      213: -8372883321241699414
+    second: ALL SPIRTES_126
+  - first:
+      213: -3592906466371947144
+    second: ALL SPIRTES_127
+  - first:
+      213: 4317000991483234816
+    second: ALL SPIRTES_128
+  - first:
+      213: -908794728256149435
+    second: ALL SPIRTES_129
+  - first:
+      213: 398617827621238784
+    second: ALL SPIRTES_130
+  - first:
+      213: 4013309128822136404
+    second: ALL SPIRTES_131
+  - first:
+      213: -1770167069653014198
+    second: ALL SPIRTES_132
+  - first:
+      213: -2900441000486072009
+    second: ALL SPIRTES_133
+  - first:
+      213: -2065623535726121702
+    second: ALL SPIRTES_134
+  - first:
+      213: 3895499790239540938
+    second: ALL SPIRTES_135
+  - first:
+      213: -4159926336011366040
+    second: ALL SPIRTES_136
+  - first:
+      213: 2215975848901437105
+    second: ALL SPIRTES_137
+  - first:
+      213: 2957823334524900608
+    second: ALL SPIRTES_138
+  - first:
+      213: 3491841741673978303
+    second: ALL SPIRTES_139
+  - first:
+      213: 9074903327872660386
+    second: ALL SPIRTES_140
+  - first:
+      213: 4963120553699348171
+    second: ALL SPIRTES_141
+  - first:
+      213: 1186412267039034847
+    second: ALL SPIRTES_142
+  - first:
+      213: 8285546708859131541
+    second: ALL SPIRTES_143
+  - first:
+      213: -8520658327145857985
+    second: ALL SPIRTES_144
+  - first:
+      213: 2770511107338665942
+    second: ALL SPIRTES_145
+  - first:
+      213: 8454041549695824633
+    second: ALL SPIRTES_146
+  - first:
+      213: -6303048785483297570
+    second: ALL SPIRTES_147
+  - first:
+      213: 265837948395665160
+    second: ALL SPIRTES_148
+  - first:
+      213: -5825336134138609612
+    second: ALL SPIRTES_149
+  - first:
+      213: -3685896616581592584
+    second: ALL SPIRTES_150
+  - first:
+      213: -1413821279977715560
+    second: ALL SPIRTES_151
+  - first:
+      213: 1985444520864584488
+    second: ALL SPIRTES_152
+  - first:
+      213: 4075248780485357077
+    second: ALL SPIRTES_153
+  - first:
+      213: -7693657463889898780
+    second: ALL SPIRTES_154
+  - first:
+      213: 6710322533722588085
+    second: ALL SPIRTES_155
+  - first:
+      213: 5100549128357724500
+    second: ALL SPIRTES_156
+  - first:
+      213: -4901189498938015127
+    second: ALL SPIRTES_157
+  - first:
+      213: -2822559331861507705
+    second: ALL SPIRTES_158
+  - first:
+      213: 4392175291490617695
+    second: ALL SPIRTES_159
+  - first:
+      213: -7420796757252612442
+    second: ALL SPIRTES_160
+  - first:
+      213: 418622239297697277
+    second: ALL SPIRTES_161
+  - first:
+      213: -3463142481346904499
+    second: ALL SPIRTES_162
+  - first:
+      213: -6919017573638523952
+    second: ALL SPIRTES_163
+  - first:
+      213: 2521511655373389384
+    second: ALL SPIRTES_164
+  - first:
+      213: -5449935651385981886
+    second: ALL SPIRTES_165
+  - first:
+      213: -4963743702437403898
+    second: ALL SPIRTES_166
+  - first:
+      213: -2717803231167663353
+    second: ALL SPIRTES_167
+  - first:
+      213: -6874121111975596964
+    second: ALL SPIRTES_168
+  - first:
+      213: -1550497478350771107
+    second: ALL SPIRTES_169
+  - first:
+      213: -2883143286895242302
+    second: ALL SPIRTES_170
+  - first:
+      213: 6778411524315849989
+    second: ALL SPIRTES_171
+  - first:
+      213: -4927937730420660347
+    second: ALL SPIRTES_172
+  - first:
+      213: 7313076038084109051
+    second: ALL SPIRTES_173
+  - first:
+      213: -5231564346365431699
+    second: ALL SPIRTES_174
+  - first:
+      213: 2793476409981993852
+    second: ALL SPIRTES_175
+  - first:
+      213: -8931545214776466371
+    second: ALL SPIRTES_176
+  - first:
+      213: 5854439857261401937
+    second: ALL SPIRTES_177
+  - first:
+      213: 2545224079127693587
+    second: ALL SPIRTES_178
+  - first:
+      213: 7203040040658087501
+    second: ALL SPIRTES_179
+  - first:
+      213: 3705967662720227182
+    second: ALL SPIRTES_180
+  - first:
+      213: -7373743138207021146
+    second: ALL SPIRTES_181
+  - first:
+      213: 1808069865879932118
+    second: ALL SPIRTES_182
+  - first:
+      213: 780116142472166267
+    second: ALL SPIRTES_183
+  - first:
+      213: -4772976337911841882
+    second: ALL SPIRTES_184
+  - first:
+      213: -3341058918557232932
+    second: ALL SPIRTES_185
+  - first:
+      213: 5429328920190492917
+    second: ALL SPIRTES_186
+  - first:
+      213: 1174721757448437252
+    second: ALL SPIRTES_187
+  - first:
+      213: 3949889849220037067
+    second: ALL SPIRTES_188
+  - first:
+      213: -692192818896106563
+    second: ALL SPIRTES_189
+  - first:
+      213: 941998997689191107
+    second: ALL SPIRTES_190
+  - first:
+      213: -1861411334981037341
+    second: ALL SPIRTES_191
+  - first:
+      213: 2545965767420499531
+    second: ALL SPIRTES_192
+  - first:
+      213: 138861598373042133
+    second: ALL SPIRTES_193
+  - first:
+      213: -2362947567130945621
+    second: ALL SPIRTES_194
+  - first:
+      213: 1372933304518232254
+    second: ALL SPIRTES_195
+  - first:
+      213: -4523776532955556318
+    second: ALL SPIRTES_196
+  - first:
+      213: 7470176017066618571
+    second: ALL SPIRTES_197
+  - first:
+      213: -1089034208667812326
+    second: ALL SPIRTES_198
+  - first:
+      213: 5189781125868592488
+    second: ALL SPIRTES_199
+  - first:
+      213: -1691476793590440210
+    second: ALL SPIRTES_200
+  - first:
+      213: -7857833127044083218
+    second: ALL SPIRTES_201
+  - first:
+      213: 8164183212992161866
+    second: ALL SPIRTES_202
+  - first:
+      213: -1976251612118064931
+    second: ALL SPIRTES_203
+  - first:
+      213: -7744031992561865211
+    second: ALL SPIRTES_204
+  - first:
+      213: 7954233983068254106
+    second: ALL SPIRTES_205
+  - first:
+      213: -5348268516956733659
+    second: ALL SPIRTES_206
+  - first:
+      213: -8699938406741960875
+    second: ALL SPIRTES_207
+  - first:
+      213: -3693405901356001711
+    second: ALL SPIRTES_208
+  - first:
+      213: 5303085406740371882
+    second: ALL SPIRTES_209
+  - first:
+      213: 4319184249036342267
+    second: ALL SPIRTES_210
+  - first:
+      213: -2815422418293546345
+    second: ALL SPIRTES_211
+  - first:
+      213: -6514748079061427125
+    second: ALL SPIRTES_212
+  - first:
+      213: -1553569087247408435
+    second: ALL SPIRTES_213
+  - first:
+      213: 5315421281166949030
+    second: ALL SPIRTES_214
+  - first:
+      213: -1045335978547086786
+    second: ALL SPIRTES_215
+  - first:
+      213: -4105254430012088454
+    second: ALL SPIRTES_216
+  - first:
+      213: 4309050703619551194
+    second: ALL SPIRTES_217
+  - first:
+      213: -3965638254233003972
+    second: ALL SPIRTES_218
+  - first:
+      213: 7569881131198652012
+    second: ALL SPIRTES_219
+  - first:
+      213: -1411977128772164368
+    second: ALL SPIRTES_220
+  - first:
+      213: 8894083525382881775
+    second: ALL SPIRTES_221
+  - first:
+      213: 4482404896952190881
+    second: ALL SPIRTES_222
+  - first:
+      213: 7360142369551914816
+    second: ALL SPIRTES_223
+  - first:
+      213: 7932507815786981839
+    second: ALL SPIRTES_224
+  - first:
+      213: -4237691024165321131
+    second: ALL SPIRTES_225
+  - first:
+      213: 6239181867184200223
+    second: ALL SPIRTES_226
+  - first:
+      213: -5883530010375181367
+    second: ALL SPIRTES_227
+  - first:
+      213: -7274071309188714192
+    second: ALL SPIRTES_228
+  - first:
+      213: -6866303296534439289
+    second: ALL SPIRTES_229
+  - first:
+      213: -8686511390782270004
+    second: ALL SPIRTES_230
+  - first:
+      213: -6919633651775226268
+    second: ALL SPIRTES_231
+  - first:
+      213: 1645726780527653068
+    second: ALL SPIRTES_232
+  - first:
+      213: -2812362720888785691
+    second: ALL SPIRTES_233
+  - first:
+      213: -1688600899528703997
+    second: ALL SPIRTES_234
+  - first:
+      213: -4474976464828901291
+    second: ALL SPIRTES_235
+  - first:
+      213: 9204299064235892407
+    second: ALL SPIRTES_236
+  - first:
+      213: -1318597354129847406
+    second: ALL SPIRTES_237
+  - first:
+      213: -2679885503309176851
+    second: ALL SPIRTES_238
+  - first:
+      213: -1764017982895672783
+    second: ALL SPIRTES_239
+  - first:
+      213: 8012493320487194632
+    second: ALL SPIRTES_240
+  - first:
+      213: -5033780619372741980
+    second: ALL SPIRTES_241
+  - first:
+      213: 3650097856783385819
+    second: ALL SPIRTES_242
+  - first:
+      213: 3421659108526586775
+    second: ALL SPIRTES_243
+  - first:
+      213: -5431162809902647132
+    second: ALL SPIRTES_244
+  - first:
+      213: -6240117333811925712
+    second: ALL SPIRTES_245
+  - first:
+      213: -3313500007211771699
+    second: ALL SPIRTES_246
+  - first:
+      213: 6585503189278629127
+    second: ALL SPIRTES_247
+  - first:
+      213: -2467357380327014654
+    second: ALL SPIRTES_248
+  - first:
+      213: -5466155715902197998
+    second: ALL SPIRTES_249
+  - first:
+      213: -2829670274522631703
+    second: ALL SPIRTES_250
+  - first:
+      213: -1566962008824363394
+    second: ALL SPIRTES_251
+  - first:
+      213: -8082369063435846181
+    second: ALL SPIRTES_252
+  - first:
+      213: 4176597259780986841
+    second: ALL SPIRTES_253
+  - first:
+      213: 1308710329788633111
+    second: ALL SPIRTES_254
+  - first:
+      213: 388355654146909831
+    second: ALL SPIRTES_255
+  - first:
+      213: 4858874288888663510
+    second: ALL SPIRTES_256
+  - first:
+      213: 1369023978991077971
+    second: ALL SPIRTES_257
+  - first:
+      213: -1580330903784470586
+    second: ALL SPIRTES_258
+  - first:
+      213: -7431498287552138236
+    second: ALL SPIRTES_259
+  - first:
+      213: -8936309741498111695
+    second: ALL SPIRTES_260
+  - first:
+      213: 5992701051778677175
+    second: ALL SPIRTES_261
+  - first:
+      213: -1816997104575444127
+    second: ALL SPIRTES_262
+  - first:
+      213: -733083012796821576
+    second: ALL SPIRTES_263
+  - first:
+      213: 5028372785402480052
+    second: ALL SPIRTES_264
+  - first:
+      213: -919501703894495889
+    second: ALL SPIRTES_265
+  - first:
+      213: 2976469663324700743
+    second: ALL SPIRTES_266
+  - first:
+      213: -3679021195227145271
+    second: ALL SPIRTES_267
+  - first:
+      213: 3250647580673150471
+    second: ALL SPIRTES_268
+  - first:
+      213: -1454091653493683617
+    second: ALL SPIRTES_269
+  - first:
+      213: -8766540618336742456
+    second: ALL SPIRTES_270
+  - first:
+      213: -4359870936228365520
+    second: ALL SPIRTES_271
+  - first:
+      213: -67643389372634250
+    second: ALL SPIRTES_272
+  - first:
+      213: -2533214595092913466
+    second: ALL SPIRTES_273
+  - first:
+      213: 6658359300521313905
+    second: ALL SPIRTES_274
+  - first:
+      213: -4516414193013157545
+    second: ALL SPIRTES_275
+  - first:
+      213: -8742359675145257266
+    second: ALL SPIRTES_276
+  - first:
+      213: -3465255700442097880
+    second: ALL SPIRTES_277
+  - first:
+      213: -449673621480099154
+    second: ALL SPIRTES_278
+  - first:
+      213: -8332359911837372406
+    second: ALL SPIRTES_279
+  - first:
+      213: 560286687422921731
+    second: ALL SPIRTES_280
+  - first:
+      213: 6895812306695230750
+    second: ALL SPIRTES_281
+  - first:
+      213: -1307371395633540192
+    second: ALL SPIRTES_282
+  - first:
+      213: 7460770196781056839
+    second: ALL SPIRTES_283
+  - first:
+      213: 9191184928431464418
+    second: ALL SPIRTES_284
+  - first:
+      213: -193449274313174679
+    second: ALL SPIRTES_285
+  - first:
+      213: -2225464205111276952
+    second: ALL SPIRTES_286
+  - first:
+      213: -7273849145073062550
+    second: ALL SPIRTES_287
+  - first:
+      213: -565385888554981513
+    second: ALL SPIRTES_288
+  - first:
+      213: 2910273729971597211
+    second: ALL SPIRTES_289
+  - first:
+      213: 6603685290858211297
+    second: ALL SPIRTES_290
+  - first:
+      213: 3353091559506684826
+    second: ALL SPIRTES_291
+  - first:
+      213: -922260780443795246
+    second: ALL SPIRTES_292
+  - first:
+      213: -2494951158923439982
+    second: ALL SPIRTES_293
+  - first:
+      213: 6469440837166345199
+    second: ALL SPIRTES_294
+  - first:
+      213: 1883787834893330865
+    second: ALL SPIRTES_295
+  - first:
+      213: -2493851526833242571
+    second: ALL SPIRTES_296
+  - first:
+      213: 2263994778701628838
+    second: ALL SPIRTES_297
+  - first:
+      213: -3061773992322672790
+    second: ALL SPIRTES_298
+  - first:
+      213: 6394407619895258504
+    second: ALL SPIRTES_299
+  - first:
+      213: 7542285875947477806
+    second: ALL SPIRTES_300
+  - first:
+      213: 7019181610802620432
+    second: ALL SPIRTES_301
+  - first:
+      213: -7811931906740564125
+    second: ALL SPIRTES_302
+  - first:
+      213: 7938612554766539727
+    second: ALL SPIRTES_303
+  - first:
+      213: -4772113698029461751
+    second: ALL SPIRTES_304
+  - first:
+      213: 6768706958557703837
+    second: ALL SPIRTES_305
+  - first:
+      213: 4880161526916673682
+    second: ALL SPIRTES_306
+  - first:
+      213: 3637999569467117951
+    second: ALL SPIRTES_307
+  - first:
+      213: 4260247490874329436
+    second: ALL SPIRTES_308
+  - first:
+      213: 7359388201948649299
+    second: ALL SPIRTES_309
+  - first:
+      213: 6843920071373476459
+    second: ALL SPIRTES_310
+  - first:
+      213: 6275761458480082097
+    second: ALL SPIRTES_311
+  - first:
+      213: 2032362882840447390
+    second: ALL SPIRTES_312
+  - first:
+      213: -1846656865503211357
+    second: ALL SPIRTES_313
+  - first:
+      213: 7474302947698091759
+    second: ALL SPIRTES_314
+  - first:
+      213: -5774724821330989618
+    second: ALL SPIRTES_315
+  - first:
+      213: 7434324526576409192
+    second: ALL SPIRTES_316
+  - first:
+      213: -2490366359741511851
+    second: ALL SPIRTES_317
+  - first:
+      213: 6354728280796582289
+    second: ALL SPIRTES_318
+  - first:
+      213: -1384483556817587953
+    second: ALL SPIRTES_319
+  - first:
+      213: 8894643718019588391
+    second: ALL SPIRTES_320
+  - first:
+      213: 5752913287993583901
+    second: ALL SPIRTES_321
+  - first:
+      213: -4296049482834102966
+    second: ALL SPIRTES_322
+  - first:
+      213: 5720089085139603660
+    second: ALL SPIRTES_323
+  - first:
+      213: -2639694991913672690
+    second: ALL SPIRTES_324
+  - first:
+      213: -9079913792018924326
+    second: ALL SPIRTES_325
+  - first:
+      213: -7759859038204790905
+    second: ALL SPIRTES_326
+  - first:
+      213: -4597038484285465906
+    second: ALL SPIRTES_327
+  - first:
+      213: -2567493241843742812
+    second: ALL SPIRTES_328
+  - first:
+      213: -6738961625590401384
+    second: ALL SPIRTES_329
+  - first:
+      213: -8316021757325723014
+    second: ALL SPIRTES_330
+  - first:
+      213: 5287937293964103176
+    second: ALL SPIRTES_331
+  - first:
+      213: 8147816505553293169
+    second: ALL SPIRTES_332
+  - first:
+      213: -4921892085374406553
+    second: ALL SPIRTES_333
+  - first:
+      213: 312366345182463144
+    second: ALL SPIRTES_334
+  - first:
+      213: 2889263388739937029
+    second: ALL SPIRTES_335
+  - first:
+      213: -6164995222086696024
+    second: ALL SPIRTES_336
+  - first:
+      213: -5793303351819547185
+    second: ALL SPIRTES_337
+  - first:
+      213: 2009143718670900288
+    second: ALL SPIRTES_338
+  - first:
+      213: -6388024542857682370
+    second: ALL SPIRTES_339
+  - first:
+      213: 3579963312191719829
+    second: ALL SPIRTES_340
+  - first:
+      213: 8384500913984902109
+    second: ALL SPIRTES_341
+  - first:
+      213: 2701827647746592893
+    second: ALL SPIRTES_342
+  - first:
+      213: -1752803197477282531
+    second: ALL SPIRTES_343
+  - first:
+      213: -7859529165463545594
+    second: ALL SPIRTES_344
+  - first:
+      213: 2326497225143494101
+    second: ALL SPIRTES_345
+  - first:
+      213: -5617646669603872045
+    second: ALL SPIRTES_346
+  - first:
+      213: 7616598676863185749
+    second: ALL SPIRTES_347
+  - first:
+      213: -5591262304891012801
+    second: ALL SPIRTES_348
+  - first:
+      213: 7245513857204368057
+    second: ALL SPIRTES_349
+  - first:
+      213: -5033173842727329183
+    second: ALL SPIRTES_350
+  - first:
+      213: 531802674916641997
+    second: ALL SPIRTES_351
+  - first:
+      213: 1981843150428130531
+    second: ALL SPIRTES_352
+  - first:
+      213: -7713389677279361637
+    second: ALL SPIRTES_353
+  - first:
+      213: -5058024540483622531
+    second: ALL SPIRTES_354
+  - first:
+      213: -7806224750353243655
+    second: ALL SPIRTES_355
+  - first:
+      213: -5350433288010256308
+    second: ALL SPIRTES_356
+  - first:
+      213: -1081968877602092562
+    second: ALL SPIRTES_357
+  - first:
+      213: -4271664162544952886
+    second: ALL SPIRTES_358
+  - first:
+      213: 6023255832891744608
+    second: ALL SPIRTES_359
+  - first:
+      213: -2383329003048655264
+    second: ALL SPIRTES_360
+  - first:
+      213: 32563561355907392
+    second: ALL SPIRTES_361
+  - first:
+      213: -2922474745258999568
+    second: ALL SPIRTES_362
+  - first:
+      213: 5751311891082087972
+    second: ALL SPIRTES_363
+  - first:
+      213: -4369099417091235030
+    second: ALL SPIRTES_364
+  - first:
+      213: 2151852343382429504
+    second: ALL SPIRTES_365
+  - first:
+      213: -231897458763108309
+    second: ALL SPIRTES_366
+  - first:
+      213: -6522138644681065430
+    second: ALL SPIRTES_367
+  - first:
+      213: -6906861690320739167
+    second: ALL SPIRTES_368
+  - first:
+      213: -3808617694864613365
+    second: ALL SPIRTES_369
+  - first:
+      213: -1582245547254649084
+    second: ALL SPIRTES_370
+  - first:
+      213: -7760396075529339100
+    second: ALL SPIRTES_371
+  - first:
+      213: 4265885371837129876
+    second: ALL SPIRTES_372
+  - first:
+      213: -599153170720101060
+    second: ALL SPIRTES_373
+  - first:
+      213: 8380585313592205611
+    second: ALL SPIRTES_374
+  - first:
+      213: 6298855383756029157
+    second: ALL SPIRTES_375
+  - first:
+      213: -4892334555833820735
+    second: ALL SPIRTES_376
+  - first:
+      213: 4832998885415300166
+    second: ALL SPIRTES_377
+  - first:
+      213: -3216196592995223648
+    second: ALL SPIRTES_378
+  - first:
+      213: 4288990811881966191
+    second: ALL SPIRTES_379
+  - first:
+      213: 296099318781348403
+    second: ALL SPIRTES_380
+  - first:
+      213: 173583909447895408
+    second: ALL SPIRTES_381
+  - first:
+      213: 3066778679947655163
+    second: ALL SPIRTES_382
+  - first:
+      213: -1811749179066492695
+    second: ALL SPIRTES_383
+  - first:
+      213: -328034183387374496
+    second: ALL SPIRTES_384
+  - first:
+      213: -242713917064737007
+    second: ALL SPIRTES_385
+  - first:
+      213: 1282254833011393011
+    second: ALL SPIRTES_386
+  - first:
+      213: 7860354520833699103
+    second: ALL SPIRTES_387
+  - first:
+      213: 2569636078263995438
+    second: ALL SPIRTES_388
+  - first:
+      213: 4024205896457539189
+    second: ALL SPIRTES_389
+  - first:
+      213: 3023226164950211429
+    second: ALL SPIRTES_390
+  - first:
+      213: 6051677243566651463
+    second: ALL SPIRTES_391
+  - first:
+      213: 1809391434694038807
+    second: ALL SPIRTES_392
+  - first:
+      213: -3585654451331364726
+    second: ALL SPIRTES_393
+  - first:
+      213: 3892552782711387920
+    second: ALL SPIRTES_394
+  - first:
+      213: 530431936261171936
+    second: ALL SPIRTES_395
+  - first:
+      213: 3204040648719257623
+    second: ALL SPIRTES_396
+  - first:
+      213: 7774739358966548742
+    second: ALL SPIRTES_397
+  - first:
+      213: -4856995807198316208
+    second: ALL SPIRTES_398
+  - first:
+      213: -1886222988355674930
+    second: ALL SPIRTES_399
+  - first:
+      213: -7679578237453767905
+    second: ALL SPIRTES_400
+  - first:
+      213: -6793171269027611244
+    second: ALL SPIRTES_401
+  - first:
+      213: -1501699524541760947
+    second: ALL SPIRTES_402
+  - first:
+      213: 238764251393588804
+    second: ALL SPIRTES_403
+  - first:
+      213: -8146667828950538677
+    second: ALL SPIRTES_404
+  - first:
+      213: 6155466105546382149
+    second: ALL SPIRTES_405
+  - first:
+      213: 7276275242564466298
+    second: ALL SPIRTES_406
+  - first:
+      213: 1771983582681205262
+    second: ALL SPIRTES_407
+  - first:
+      213: 7698826846108264375
+    second: ALL SPIRTES_408
+  - first:
+      213: -4741908487961776109
+    second: ALL SPIRTES_409
+  - first:
+      213: 7125499401980303612
+    second: ALL SPIRTES_410
+  - first:
+      213: -6138359421956195740
+    second: ALL SPIRTES_411
+  - first:
+      213: -9065524990726507915
+    second: ALL SPIRTES_412
+  - first:
+      213: -116027576194265165
+    second: ALL SPIRTES_413
+  - first:
+      213: 6294997486937574985
+    second: ALL SPIRTES_414
+  - first:
+      213: -851105033192431857
+    second: ALL SPIRTES_415
+  - first:
+      213: 5057988972554401475
+    second: ALL SPIRTES_416
+  - first:
+      213: 1530753598338058722
+    second: ALL SPIRTES_417
+  - first:
+      213: 717627043869669876
+    second: ALL SPIRTES_418
+  - first:
+      213: 3934444273037720480
+    second: ALL SPIRTES_419
+  - first:
+      213: -3534257711687063935
+    second: ALL SPIRTES_420
+  - first:
+      213: -270615488245351495
+    second: ALL SPIRTES_421
+  - first:
+      213: -5911640426145169652
+    second: ALL SPIRTES_422
+  - first:
+      213: -4870267278795193553
+    second: ALL SPIRTES_423
+  - first:
+      213: 8014488801808813900
+    second: ALL SPIRTES_424
+  - first:
+      213: 6131985424663913281
+    second: ALL SPIRTES_425
+  - first:
+      213: -7354116558225701337
+    second: ALL SPIRTES_426
+  - first:
+      213: -5814559566409795541
+    second: ALL SPIRTES_427
+  - first:
+      213: 5572316948390901260
+    second: ALL SPIRTES_428
+  - first:
+      213: 7503222444106840491
+    second: ALL SPIRTES_429
+  - first:
+      213: -2130211555793895105
+    second: ALL SPIRTES_430
+  - first:
+      213: -3428704345214834509
+    second: ALL SPIRTES_431
+  - first:
+      213: 1668824562227047987
+    second: ALL SPIRTES_432
+  - first:
+      213: -7762127019554138060
+    second: ALL SPIRTES_433
+  - first:
+      213: -545617422050761089
+    second: ALL SPIRTES_434
+  - first:
+      213: 4573539536672919028
+    second: ALL SPIRTES_435
+  - first:
+      213: 7210923475883344992
+    second: ALL SPIRTES_436
+  - first:
+      213: 1364631670006959881
+    second: ALL SPIRTES_437
+  - first:
+      213: 2722575992462798078
+    second: ALL SPIRTES_438
+  - first:
+      213: -5607494496589355684
+    second: ALL SPIRTES_439
+  - first:
+      213: 7354769169474886112
+    second: ALL SPIRTES_440
+  - first:
+      213: 8964470183726159041
+    second: ALL SPIRTES_441
+  - first:
+      213: -1033828161165093306
+    second: ALL SPIRTES_442
+  - first:
+      213: -1188847716042743516
+    second: ALL SPIRTES_443
+  - first:
+      213: 6362518754658700526
+    second: ALL SPIRTES_444
+  - first:
+      213: 4593424495125120478
+    second: ALL SPIRTES_445
+  - first:
+      213: 2898729511429966263
+    second: ALL SPIRTES_446
+  - first:
+      213: -1006774151682399466
+    second: ALL SPIRTES_447
+  - first:
+      213: -2129524523337564761
+    second: ALL SPIRTES_448
+  - first:
+      213: -6120532166235692289
+    second: ALL SPIRTES_449
+  - first:
+      213: -3570893452928878491
+    second: ALL SPIRTES_450
+  - first:
+      213: 5829556414893811956
+    second: ALL SPIRTES_451
+  - first:
+      213: -6534884130861902299
+    second: ALL SPIRTES_452
+  - first:
+      213: -2697118409571792836
+    second: ALL SPIRTES_453
+  - first:
+      213: 5186563324679593001
+    second: ALL SPIRTES_454
+  - first:
+      213: -2856952335375865806
+    second: ALL SPIRTES_455
+  - first:
+      213: 2557990626818554036
+    second: ALL SPIRTES_456
+  - first:
+      213: -6649401532618006415
+    second: ALL SPIRTES_457
+  - first:
+      213: -9179240145984564970
+    second: ALL SPIRTES_458
+  - first:
+      213: 1906781843627886554
+    second: ALL SPIRTES_459
+  - first:
+      213: 5052636773607448900
+    second: ALL SPIRTES_460
+  - first:
+      213: -4364618492605931050
+    second: ALL SPIRTES_461
+  - first:
+      213: -5998576615410043451
+    second: ALL SPIRTES_462
+  - first:
+      213: -4926194689837653311
+    second: ALL SPIRTES_463
+  - first:
+      213: 7354920635316572433
+    second: ALL SPIRTES_464
+  - first:
+      213: -2248795601089567704
+    second: ALL SPIRTES_465
+  - first:
+      213: 3196581703782093214
+    second: ALL SPIRTES_466
+  - first:
+      213: -517765333445217607
+    second: ALL SPIRTES_467
+  - first:
+      213: -3935587760808293219
+    second: ALL SPIRTES_468
+  - first:
+      213: 1801067853302652301
+    second: ALL SPIRTES_469
+  - first:
+      213: 4515927415483454871
+    second: ALL SPIRTES_470
+  - first:
+      213: 1139641615163803587
+    second: ALL SPIRTES_471
+  - first:
+      213: -5805217052161162384
+    second: ALL SPIRTES_472
+  - first:
+      213: 2473043758186711568
+    second: ALL SPIRTES_473
+  - first:
+      213: 4955626143701858845
+    second: ALL SPIRTES_474
+  - first:
+      213: -7712400295866994436
+    second: ALL SPIRTES_475
+  - first:
+      213: 4748952110452490521
+    second: ALL SPIRTES_476
+  - first:
+      213: -7328010298696018279
+    second: ALL SPIRTES_477
+  - first:
+      213: 2873688284621307692
+    second: ALL SPIRTES_478
+  - first:
+      213: -8304917198534107252
+    second: ALL SPIRTES_479
+  - first:
+      213: 7156865074686066155
+    second: ALL SPIRTES_480
+  - first:
+      213: -1630117583907584953
+    second: ALL SPIRTES_481
+  - first:
+      213: 5538954004081558620
+    second: ALL SPIRTES_482
+  - first:
+      213: 989296689100333454
+    second: ALL SPIRTES_483
+  - first:
+      213: -3169766724601379657
+    second: ALL SPIRTES_484
+  - first:
+      213: -2454794387179666751
+    second: ALL SPIRTES_485
+  - first:
+      213: -4945434716393157884
+    second: ALL SPIRTES_486
+  - first:
+      213: -4990027660935611118
+    second: ALL SPIRTES_487
+  - first:
+      213: -8400051516632305613
+    second: ALL SPIRTES_488
+  - first:
+      213: 4513999976503072979
+    second: ALL SPIRTES_489
+  - first:
+      213: 4692662748122741750
+    second: ALL SPIRTES_490
+  - first:
+      213: -6007837897863489673
+    second: ALL SPIRTES_491
+  - first:
+      213: 6677203538999807677
+    second: ALL SPIRTES_492
+  - first:
+      213: -4196972894725008496
+    second: ALL SPIRTES_493
+  - first:
+      213: -505808688493718561
+    second: ALL SPIRTES_494
+  - first:
+      213: 18368333238936477
+    second: ALL SPIRTES_495
+  - first:
+      213: -5985165211289950898
+    second: ALL SPIRTES_496
+  - first:
+      213: -1681008237273554917
+    second: ALL SPIRTES_497
+  - first:
+      213: -3432974077617104719
+    second: ALL SPIRTES_498
+  - first:
+      213: -1078453987055604887
+    second: ALL SPIRTES_499
+  - first:
+      213: 6203482829972657845
+    second: ALL SPIRTES_500
+  - first:
+      213: -5439181841040085771
+    second: ALL SPIRTES_501
+  - first:
+      213: 7405752439548867237
+    second: ALL SPIRTES_502
+  - first:
+      213: -1378137589544203607
+    second: ALL SPIRTES_503
+  - first:
+      213: -7760103103986090935
+    second: ALL SPIRTES_504
+  - first:
+      213: -7381204647506192747
+    second: ALL SPIRTES_505
+  - first:
+      213: -3076803743350520915
+    second: ALL SPIRTES_506
+  - first:
+      213: -7807929417376559123
+    second: ALL SPIRTES_507
+  - first:
+      213: 8415026288625122743
+    second: ALL SPIRTES_508
+  - first:
+      213: -5848034239050941431
+    second: ALL SPIRTES_509
+  - first:
+      213: -5402762803070980619
+    second: ALL SPIRTES_510
+  - first:
+      213: 7877019143834354783
+    second: ALL SPIRTES_511
+  - first:
+      213: -5737606155499382503
+    second: ALL SPIRTES_512
+  - first:
+      213: 5798601498387092225
+    second: ALL SPIRTES_513
+  - first:
+      213: -5820483082753335469
+    second: ALL SPIRTES_514
+  - first:
+      213: -4236432541938226350
+    second: ALL SPIRTES_515
+  - first:
+      213: 4557017205686414304
+    second: ALL SPIRTES_516
+  - first:
+      213: 8341494704582802111
+    second: ALL SPIRTES_517
+  - first:
+      213: 970939598872572061
+    second: ALL SPIRTES_518
+  - first:
+      213: 77298090113167563
+    second: ALL SPIRTES_519
+  - first:
+      213: 963056953502094909
+    second: ALL SPIRTES_520
+  - first:
+      213: 8376043960330545920
+    second: ALL SPIRTES_521
+  - first:
+      213: -6011622576521873045
+    second: ALL SPIRTES_522
+  - first:
+      213: 5536825870465094132
+    second: ALL SPIRTES_523
+  - first:
+      213: -3125568815596887409
+    second: ALL SPIRTES_524
+  - first:
+      213: -5552052745381520452
+    second: ALL SPIRTES_0
+  - first:
+      213: -8992819447716784815
+    second: ALL SPIRTES_1
+  - first:
+      213: 216528041658710325
+    second: ALL SPIRTES_2
+  - first:
+      213: 6355502714716676402
+    second: ALL SPIRTES_3
+  - first:
+      213: 2848689104307770118
+    second: ALL SPIRTES_4
+  - first:
+      213: -3445315709834777835
+    second: ALL SPIRTES_5
+  - first:
+      213: 4013056111613036203
+    second: ALL SPIRTES_6
+  - first:
+      213: -1761352780160764333
+    second: ALL SPIRTES_7
+  - first:
+      213: -3772455639360364082
+    second: ALL SPIRTES_8
+  - first:
+      213: -6905233855628403548
+    second: ALL SPIRTES_9
+  - first:
+      213: -6589195477048950847
+    second: ALL SPIRTES_10
+  - first:
+      213: -3694698485061872427
+    second: ALL SPIRTES_11
+  - first:
+      213: -4215261577049929415
+    second: ALL SPIRTES_12
+  - first:
+      213: 4710110613258279616
+    second: ALL SPIRTES_13
+  - first:
+      213: 8619619125306822956
+    second: ALL SPIRTES_14
+  - first:
+      213: -2686451417054659464
+    second: ALL SPIRTES_15
+  - first:
+      213: 6835149317598015418
+    second: ALL SPIRTES_16
+  - first:
+      213: -217005129952711935
+    second: ALL SPIRTES_17
+  - first:
+      213: 9014969529820209050
+    second: ALL SPIRTES_18
+  - first:
+      213: 6053930602209072428
+    second: ALL SPIRTES_19
+  - first:
+      213: 6068093996917852125
+    second: ALL SPIRTES_20
+  - first:
+      213: -8930350156731305152
+    second: ALL SPIRTES_21
+  - first:
+      213: -4052754721786370807
+    second: ALL SPIRTES_22
+  - first:
+      213: 5900225130706691509
+    second: ALL SPIRTES_23
+  - first:
+      213: -738551256035977524
+    second: ALL SPIRTES_24
+  - first:
+      213: -6941357895812842002
+    second: ALL SPIRTES_25
+  - first:
+      213: 1286132694415604705
+    second: ALL SPIRTES_26
+  - first:
+      213: -19357198458957291
+    second: ALL SPIRTES_27
+  - first:
+      213: -8643565585583485618
+    second: ALL SPIRTES_28
+  - first:
+      213: 7245370895418382019
+    second: ALL SPIRTES_29
+  - first:
+      213: -6287190626445542114
+    second: ALL SPIRTES_30
+  - first:
+      213: -8773984932609805395
+    second: ALL SPIRTES_31
+  - first:
+      213: 5911382851066641581
+    second: ALL SPIRTES_32
+  - first:
+      213: 9185908245396338974
+    second: ALL SPIRTES_33
+  - first:
+      213: 6857704567598011764
+    second: ALL SPIRTES_34
+  - first:
+      213: -7567268786270968550
+    second: ALL SPIRTES_35
+  - first:
+      213: -3634621522866723794
+    second: ALL SPIRTES_36
+  - first:
+      213: 6069409102485473992
+    second: ALL SPIRTES_37
+  - first:
+      213: 2063696354243707953
+    second: ALL SPIRTES_38
+  - first:
+      213: -5252077615709025089
+    second: ALL SPIRTES_39
+  - first:
+      213: -938434798184974707
+    second: ALL SPIRTES_40
+  - first:
+      213: 175933254748090539
+    second: ALL SPIRTES_41
+  - first:
+      213: 4629433632567073599
+    second: ALL SPIRTES_42
+  - first:
+      213: 1788717808898227289
+    second: ALL SPIRTES_43
+  - first:
+      213: -1629343432096030637
+    second: ALL SPIRTES_44
+  - first:
+      213: -2335111134277830170
+    second: ALL SPIRTES_45
+  - first:
+      213: -4313067355496843045
+    second: ALL SPIRTES_46
+  - first:
+      213: -8915915471182707653
+    second: ALL SPIRTES_47
+  - first:
+      213: 7574858406105306769
+    second: ALL SPIRTES_48
+  - first:
+      213: 8917693473971538772
+    second: ALL SPIRTES_49
+  - first:
+      213: -8595543183464359996
+    second: ALL SPIRTES_50
+  - first:
+      213: 5125718573190274331
+    second: ALL SPIRTES_51
+  - first:
+      213: 1575872739854519318
+    second: ALL SPIRTES_52
+  - first:
+      213: 1054758098185742917
+    second: ALL SPIRTES_53
+  - first:
+      213: 6141923315989396747
+    second: ALL SPIRTES_54
+  - first:
+      213: -1466483637808757952
+    second: ALL SPIRTES_55
+  - first:
+      213: 2011432648553315963
+    second: ALL SPIRTES_56
+  - first:
+      213: -8580653425563142417
+    second: ALL SPIRTES_57
+  - first:
+      213: -3384704131056461222
+    second: ALL SPIRTES_58
+  - first:
+      213: 7279587765510970296
+    second: ALL SPIRTES_59
+  - first:
+      213: -8935279669244306166
+    second: ALL SPIRTES_60
+  - first:
+      213: -3344744381367887635
+    second: ALL SPIRTES_61
+  - first:
+      213: -4873693075324812805
+    second: ALL SPIRTES_62
+  - first:
+      213: 6681337087053070068
+    second: ALL SPIRTES_63
+  - first:
+      213: -4291344441707761892
+    second: ALL SPIRTES_64
+  - first:
+      213: 3286401249400352254
+    second: ALL SPIRTES_65
+  - first:
+      213: 9063835906685574696
+    second: ALL SPIRTES_66
+  - first:
+      213: 3111642788445519020
+    second: ALL SPIRTES_67
+  - first:
+      213: 2303884063403511045
+    second: ALL SPIRTES_68
+  - first:
+      213: 986004384711018580
+    second: ALL SPIRTES_69
+  - first:
+      213: -6491739489131328149
+    second: ALL SPIRTES_70
+  - first:
+      213: -3117333714885648130
+    second: ALL SPIRTES_71
+  - first:
+      213: -3839460329384963005
+    second: ALL SPIRTES_72
+  - first:
+      213: -1204651257514261331
+    second: ALL SPIRTES_73
+  - first:
+      213: 1984368769717676983
+    second: ALL SPIRTES_74
+  - first:
+      213: -8800987156201129472
+    second: ALL SPIRTES_75
+  - first:
+      213: -5625611728084466016
+    second: ALL SPIRTES_76
+  - first:
+      213: -4702416353219554254
+    second: ALL SPIRTES_77
+  - first:
+      213: 8754291551137399755
+    second: ALL SPIRTES_78
+  - first:
+      213: 886477392656074998
+    second: ALL SPIRTES_79
+  - first:
+      213: -5876674870912923541
+    second: ALL SPIRTES_80
+  - first:
+      213: -6350752614051169356
+    second: ALL SPIRTES_81
+  - first:
+      213: 3943081638710296191
+    second: ALL SPIRTES_82
+  - first:
+      213: 4453305588083068396
+    second: ALL SPIRTES_83
+  - first:
+      213: -6902541142850207042
+    second: ALL SPIRTES_84
+  - first:
+      213: -8097472682440458562
+    second: ALL SPIRTES_85
+  - first:
+      213: -2265126765980134503
+    second: ALL SPIRTES_86
+  - first:
+      213: -2792136892159750218
+    second: ALL SPIRTES_87
+  - first:
+      213: -3442486651965088598
+    second: ALL SPIRTES_88
+  - first:
+      213: 7096866510798671845
+    second: ALL SPIRTES_89
+  - first:
+      213: 7239412590138407402
+    second: ALL SPIRTES_90
+  - first:
+      213: -6886437466621117461
+    second: ALL SPIRTES_91
+  - first:
+      213: 8048118984955232318
+    second: ALL SPIRTES_92
+  - first:
+      213: 4310140793190804060
+    second: ALL SPIRTES_93
+  - first:
+      213: -3499122177834196817
+    second: ALL SPIRTES_94
+  - first:
+      213: 4058682968765107184
+    second: ALL SPIRTES_95
+  - first:
+      213: -988399786868387592
+    second: ALL SPIRTES_96
+  - first:
+      213: 1770216456706523588
+    second: ALL SPIRTES_97
+  - first:
+      213: 5871319973484859469
+    second: ALL SPIRTES_98
+  - first:
+      213: 3438535991850475991
+    second: ALL SPIRTES_99
+  - first:
+      213: 8017790384097364850
+    second: ALL SPIRTES_100
+  - first:
+      213: -7143623136665209833
+    second: ALL SPIRTES_101
+  - first:
+      213: 7292221257985263611
+    second: ALL SPIRTES_102
+  - first:
+      213: -5669844995874066910
+    second: ALL SPIRTES_103
+  - first:
+      213: -9220025902346254388
+    second: ALL SPIRTES_104
+  - first:
+      213: 8956817671434979515
+    second: ALL SPIRTES_105
+  - first:
+      213: -6548002094902646701
+    second: ALL SPIRTES_106
+  - first:
+      213: 2854412877195524195
+    second: ALL SPIRTES_107
+  - first:
+      213: -986927454267030889
+    second: ALL SPIRTES_108
+  - first:
+      213: -4452384976334234566
+    second: ALL SPIRTES_109
+  - first:
+      213: -1590850581582465836
+    second: ALL SPIRTES_110
+  - first:
+      213: -3209949500572664840
+    second: ALL SPIRTES_111
+  - first:
+      213: -2762148879449484551
+    second: ALL SPIRTES_112
+  - first:
+      213: -6980591295870113901
+    second: ALL SPIRTES_113
+  - first:
+      213: -38655263117582504
+    second: ALL SPIRTES_114
+  - first:
+      213: -4913951929017106602
+    second: ALL SPIRTES_115
+  - first:
+      213: 4449883174171333302
+    second: ALL SPIRTES_116
+  - first:
+      213: 3852242751766628114
+    second: ALL SPIRTES_117
+  - first:
+      213: 7258900526865839610
+    second: ALL SPIRTES_118
+  - first:
+      213: 3169174787833756136
+    second: ALL SPIRTES_119
+  - first:
+      213: 2698885938862877601
+    second: ALL SPIRTES_120
+  - first:
+      213: 928427411385112660
+    second: ALL SPIRTES_121
+  - first:
+      213: -6112655886396797757
+    second: ALL SPIRTES_122
+  - first:
+      213: 2729944928851474760
+    second: ALL SPIRTES_123
+  - first:
+      213: 4716200585445927616
+    second: ALL SPIRTES_124
+  - first:
+      213: 5848376656241104504
+    second: ALL SPIRTES_125
+  - first:
+      213: -4661572211167190002
+    second: ALL SPIRTES_126
+  - first:
+      213: -8700906758351163897
+    second: ALL SPIRTES_127
+  - first:
+      213: 8553617542493863406
+    second: ALL SPIRTES_128
+  - first:
+      213: -9017145870411440061
+    second: ALL SPIRTES_129
+  - first:
+      213: -4775608335672832724
+    second: ALL SPIRTES_130
+  - first:
+      213: 3382097046453928941
+    second: ALL SPIRTES_131
+  - first:
+      213: -7572605447548566135
+    second: ALL SPIRTES_132
+  - first:
+      213: -278071263101272522
+    second: ALL SPIRTES_133
+  - first:
+      213: -1188408290018943857
+    second: ALL SPIRTES_134
+  - first:
+      213: -8012576684155640319
+    second: ALL SPIRTES_135
+  - first:
+      213: -526310683294634685
+    second: ALL SPIRTES_136
+  - first:
+      213: 3027678538914156849
+    second: ALL SPIRTES_137
+  - first:
+      213: -801633277895701532
+    second: ALL SPIRTES_138
+  - first:
+      213: 3498083078141398934
+    second: ALL SPIRTES_139
+  - first:
+      213: 1351738782657368061
+    second: ALL SPIRTES_140
+  - first:
+      213: 5244870950624976124
+    second: ALL SPIRTES_141
+  - first:
+      213: 42847081942896696
+    second: ALL SPIRTES_142
+  - first:
+      213: 3658880146328394204
+    second: ALL SPIRTES_143
+  - first:
+      213: -3826427361434110926
+    second: ALL SPIRTES_144
+  - first:
+      213: 8105879744442936872
+    second: ALL SPIRTES_145
+  - first:
+      213: 7043471268390179397
+    second: ALL SPIRTES_146
+  - first:
+      213: 3939421187524693963
+    second: ALL SPIRTES_147
+  - first:
+      213: -3581559850028737476
+    second: ALL SPIRTES_148
+  - first:
+      213: -6707251433690061917
+    second: ALL SPIRTES_149
+  - first:
+      213: 5142311232478811695
+    second: ALL SPIRTES_150
+  - first:
+      213: -5329416050257407774
+    second: ALL SPIRTES_151
+  - first:
+      213: -8997121460540124352
+    second: ALL SPIRTES_152
+  - first:
+      213: 2896245755221369322
+    second: ALL SPIRTES_153
+  - first:
+      213: -9040140896833009644
+    second: ALL SPIRTES_154
+  - first:
+      213: 8022649122495744378
+    second: ALL SPIRTES_155
+  - first:
+      213: -6665650187699533044
+    second: ALL SPIRTES_156
+  - first:
+      213: 6914945851130072962
+    second: ALL SPIRTES_157
+  - first:
+      213: -7388000290968460325
+    second: ALL SPIRTES_158
+  - first:
+      213: 5191827271812865019
+    second: ALL SPIRTES_159
+  - first:
+      213: 993007510607567222
+    second: ALL SPIRTES_160
+  - first:
+      213: -3107050627987066672
+    second: ALL SPIRTES_161
+  - first:
+      213: 8034491667645444887
+    second: ALL SPIRTES_162
+  - first:
+      213: -5846592847864985977
+    second: ALL SPIRTES_163
+  - first:
+      213: 6647646430337969888
+    second: ALL SPIRTES_164
+  - first:
+      213: 736000863617081815
+    second: ALL SPIRTES_165
+  - first:
+      213: 4531981203646243160
+    second: ALL SPIRTES_166
+  - first:
+      213: 866828651023207879
+    second: ALL SPIRTES_167
+  - first:
+      213: 7268480714861958090
+    second: ALL SPIRTES_168
+  - first:
+      213: -7468694687384773253
+    second: ALL SPIRTES_169
+  - first:
+      213: -6387444250201746045
+    second: ALL SPIRTES_170
+  - first:
+      213: -1237508446669517411
+    second: ALL SPIRTES_171
+  - first:
+      213: -3847344009294815854
+    second: ALL SPIRTES_172
+  - first:
+      213: -4968100983854820935
+    second: ALL SPIRTES_173
+  - first:
+      213: -8876099986656373221
+    second: ALL SPIRTES_174
+  - first:
+      213: 1018946531140660102
+    second: ALL SPIRTES_175
+  - first:
+      213: 1749714118720600264
+    second: ALL SPIRTES_176
+  - first:
+      213: -4562578638192980463
+    second: ALL SPIRTES_177
+  - first:
+      213: -4500889607824308789
+    second: ALL SPIRTES_178
+  - first:
+      213: 4197065225018156751
+    second: ALL SPIRTES_179
+  - first:
+      213: 144194858194804883
+    second: ALL SPIRTES_180
+  - first:
+      213: -6944330049857929436
+    second: ALL SPIRTES_181
+  - first:
+      213: -1273998157321940904
+    second: ALL SPIRTES_182
+  - first:
+      213: -2848254848336376442
+    second: ALL SPIRTES_183
+  - first:
+      213: 3767092931560805747
+    second: ALL SPIRTES_184
+  - first:
+      213: 5773331297640330564
+    second: ALL SPIRTES_185
+  - first:
+      213: 4938034766273611452
+    second: ALL SPIRTES_186
+  - first:
+      213: -3353675610036866002
+    second: ALL SPIRTES_187
+  - first:
+      213: 8051989695703066853
+    second: ALL SPIRTES_188
+  - first:
+      213: 697867538883127946
+    second: ALL SPIRTES_189
+  - first:
+      213: 4931798034774827500
+    second: ALL SPIRTES_190
+  - first:
+      213: -8571715817282699959
+    second: ALL SPIRTES_191
+  - first:
+      213: 8942074631762462099
+    second: ALL SPIRTES_192
+  - first:
+      213: 4555369127454220302
+    second: ALL SPIRTES_193
+  - first:
+      213: -5746042250844521840
+    second: ALL SPIRTES_194
+  - first:
+      213: -1951853637127885209
+    second: ALL SPIRTES_195
+  - first:
+      213: 2541450677055918238
+    second: ALL SPIRTES_196
+  - first:
+      213: 1776411309684941822
+    second: ALL SPIRTES_197
+  - first:
+      213: -3386018547286288131
+    second: ALL SPIRTES_198
+  - first:
+      213: 1464711091836838003
+    second: ALL SPIRTES_199
+  - first:
+      213: -3691267778025842094
+    second: ALL SPIRTES_200
+  - first:
+      213: 8411996243308571489
+    second: ALL SPIRTES_201
+  - first:
+      213: -5593268843676216032
+    second: ALL SPIRTES_202
+  - first:
+      213: 5123180157018445835
+    second: ALL SPIRTES_203
+  - first:
+      213: 4244189295608722383
+    second: ALL SPIRTES_204
+  - first:
+      213: 7627562709985825292
+    second: ALL SPIRTES_205
+  - first:
+      213: -630141113219151401
+    second: ALL SPIRTES_206
+  - first:
+      213: 4045471381047935412
+    second: ALL SPIRTES_207
+  - first:
+      213: -8858053039525478147
+    second: ALL SPIRTES_208
+  - first:
+      213: 2785009839115147216
+    second: ALL SPIRTES_209
+  - first:
+      213: -2877486926438547491
+    second: ALL SPIRTES_210
+  - first:
+      213: -4462404179415401519
+    second: ALL SPIRTES_211
+  - first:
+      213: -8786026494851239439
+    second: ALL SPIRTES_212
+  - first:
+      213: 2609866139491903738
+    second: ALL SPIRTES_213
+  - first:
+      213: 8415728203870646866
+    second: ALL SPIRTES_214
+  - first:
+      213: -7450903790878470260
+    second: ALL SPIRTES_215
+  - first:
+      213: 5599703265844798482
+    second: ALL SPIRTES_216
+  - first:
+      213: 755779259536370552
+    second: ALL SPIRTES_217
+  - first:
+      213: -859759406645388619
+    second: ALL SPIRTES_218
+  - first:
+      213: -7842755946416548071
+    second: ALL SPIRTES_219
+  - first:
+      213: -4627719787924483796
+    second: ALL SPIRTES_220
+  - first:
+      213: 5675897654749303800
+    second: ALL SPIRTES_221
+  - first:
+      213: -8951814515627934195
+    second: ALL SPIRTES_222
+  - first:
+      213: -3163415987802180466
+    second: ALL SPIRTES_223
+  - first:
+      213: -681700977300773916
+    second: ALL SPIRTES_224
+  - first:
+      213: 8837059043944017272
+    second: ALL SPIRTES_225
+  - first:
+      213: 7747746767569246739
+    second: ALL SPIRTES_226
+  - first:
+      213: -5855111466154621928
+    second: ALL SPIRTES_227
+  - first:
+      213: -3830727821377137959
+    second: ALL SPIRTES_228
+  - first:
+      213: -681099502313979009
+    second: ALL SPIRTES_229
+  - first:
+      213: -6140928022967561296
+    second: ALL SPIRTES_230
+  - first:
+      213: -5475925731960517389
+    second: ALL SPIRTES_231
+  - first:
+      213: 6915554132666031245
+    second: ALL SPIRTES_232
+  - first:
+      213: -6606923879795282587
+    second: ALL SPIRTES_233
+  - first:
+      213: -1114936010335707299
+    second: ALL SPIRTES_234
+  - first:
+      213: -4757781116159751502
+    second: ALL SPIRTES_235
+  - first:
+      213: -3602714065093304629
+    second: ALL SPIRTES_236
+  - first:
+      213: 8584954358854205996
+    second: ALL SPIRTES_237
+  - first:
+      213: -661011890660864446
+    second: ALL SPIRTES_238
+  - first:
+      213: 7276175817095438671
+    second: ALL SPIRTES_239
+  - first:
+      213: 4698178209750182070
+    second: ALL SPIRTES_240
+  - first:
+      213: -5729259830501600154
+    second: ALL SPIRTES_241
+  - first:
+      213: -1642311001350709554
+    second: ALL SPIRTES_242
+  - first:
+      213: 4159571737262323089
+    second: ALL SPIRTES_243
+  - first:
+      213: 545573062177790823
+    second: ALL SPIRTES_244
+  - first:
+      213: -1786286676758690731
+    second: ALL SPIRTES_245
+  - first:
+      213: -2521655859117013949
+    second: ALL SPIRTES_246
+  - first:
+      213: -1411557306460183262
+    second: ALL SPIRTES_247
+  - first:
+      213: 4559890399702341659
+    second: ALL SPIRTES_248
+  - first:
+      213: -5989632267222528084
+    second: ALL SPIRTES_249
+  - first:
+      213: 9145692550989527603
+    second: ALL SPIRTES_250
+  - first:
+      213: -4286277900150637007
+    second: ALL SPIRTES_251
+  - first:
+      213: -8040740299516300594
+    second: ALL SPIRTES_252
+  - first:
+      213: 1410824847594737762
+    second: ALL SPIRTES_253
+  - first:
+      213: -5050830192879282792
+    second: ALL SPIRTES_254
+  - first:
+      213: 2285359829038921307
+    second: ALL SPIRTES_255
+  - first:
+      213: 588017087189466520
+    second: ALL SPIRTES_256
+  - first:
+      213: -6152140965260544414
+    second: ALL SPIRTES_257
+  - first:
+      213: 4200132655811049600
+    second: ALL SPIRTES_258
+  - first:
+      213: -3243162885702479021
+    second: ALL SPIRTES_259
+  - first:
+      213: 2168813987637228204
+    second: ALL SPIRTES_260
+  - first:
+      213: 4103653803603860219
+    second: ALL SPIRTES_261
+  - first:
+      213: 8705731598931162889
+    second: ALL SPIRTES_262
+  - first:
+      213: -581544485741749012
+    second: ALL SPIRTES_263
+  - first:
+      213: 4370321669974047747
+    second: ALL SPIRTES_264
+  - first:
+      213: 8200964752164746327
+    second: ALL SPIRTES_265
+  - first:
+      213: -4511442963602762628
+    second: ALL SPIRTES_266
+  - first:
+      213: -7802659500321770762
+    second: ALL SPIRTES_267
+  - first:
+      213: -1847658124997210494
+    second: ALL SPIRTES_268
+  - first:
+      213: 4706090517459725434
+    second: ALL SPIRTES_269
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALL SPIRTES_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155dd99bb56133380800000000000000
+      internalID: -8992819447716784815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397afe4b13410300800000000000000
+      internalID: 216528041658710325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e7bfcb08433850800000000000000
+      internalID: 6355502714716676402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035ac9b5a3988720800000000000000
+      internalID: 2848689104307770118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba930bd97cf20d0800000000000000
+      internalID: -3445315709834777835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c76c754d31b730800000000000000
+      internalID: 4013056111613036203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356fe5e7afa6e87e0800000000000000
+      internalID: -1761352780160764333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 483
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a105559b85abc0800000000000000
+      internalID: -3772455639360364082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 481
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9440d46eab20a0800000000000000
+      internalID: -6905233855628403548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 465
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff2eaef997e84a0800000000000000
+      internalID: -6589195477048950847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 465
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d496bd9d4bc9bcc0800000000000000
+      internalID: -3694698485061872427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 465
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9390698dde16085c0800000000000000
+      internalID: -4215261577049929415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 480
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9e04c5acad5140800000000000000
+      internalID: 4710110613258279616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21931ffce90f9770800000000000000
+      internalID: 8619619125306822956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 480
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cbc1c6baec7bad0800000000000000
+      internalID: -2686451417054659464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfee2617145bde50800000000000000
+      internalID: 6835149317598015418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 481
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b2bbaebfa0dfcf0800000000000000
+      internalID: -217005129952711935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 482
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f57e5260b9b1d70800000000000000
+      internalID: 9014969529820209050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 480
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d98fbec1e30450800000000000000
+      internalID: 6053930602209072428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 480
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd708fd0753363450800000000000000
+      internalID: 6068093996917852125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 448
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433d24f8d5011480800000000000000
+      internalID: -8930350156731305152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e22e8d09b1c7c0800000000000000
+      internalID: -4052754721786370807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 450
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5ea92ee7fc1e150800000000000000
+      internalID: 5900225130706691509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 449
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69e8fab8320c5f0800000000000000
+      internalID: -738551256035977524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 452
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf83945c75baf90800000000000000
+      internalID: -6941357895812842002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 433
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb78a01fd249d110800000000000000
+      internalID: 1286132694415604705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d1060bba3bbff0800000000000000
+      internalID: -19357198458957291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 464
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d418e35e2eb0880800000000000000
+      internalID: -8643565585583485618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 464
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6dd57117abc8460800000000000000
+      internalID: 7245370895418382019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3c8baf696fb8a0800000000000000
+      internalID: -6287190626445542114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 465
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b92bb03b8c3680800000000000000
+      internalID: -8773984932609805395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 466
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb9291263790250800000000000000
+      internalID: 5911382851066641581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 464
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193e2251e6ea7f70800000000000000
+      internalID: 9185908245396338974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d04678f57b2f50800000000000000
+      internalID: 6857704567598011764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ea6ac129abf690800000000000000
+      internalID: -7567268786270968550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242a846bfa3f8dc0800000000000000
+      internalID: -3634621522866723794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca4b2eeb6fda3450800000000000000
+      internalID: 6069409102485473992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13407f676e8b3ac10800000000000000
+      internalID: 2063696354243707953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 433
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc02e63c3fdc17b0800000000000000
+      internalID: -5252077615709025089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 433
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b159e5820af2f0800000000000000
+      internalID: -938434798184974707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 433
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03071fc5a017200800000000000000
+      internalID: 175933254748090539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 448
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b186c6c5d0f3040800000000000000
+      internalID: 4629433632567073599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 448
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3bc2ce5dc2d810800000000000000
+      internalID: 1788717808898227289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 448
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ecc8f7c86369e0800000000000000
+      internalID: -1629343432096030637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97f4a9bc4089fd0800000000000000
+      internalID: -2335111134277830170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 449
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f64f7718e424c0800000000000000
+      internalID: -4313067355496843045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 450
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ceb41e1e444480800000000000000
+      internalID: -8915915471182707653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 448
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d9c7469d4f1960800000000000000
+      internalID: 7574858406105306769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 448
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b84e377f202cb70800000000000000
+      internalID: 8917693473971538772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7931a040f76b880800000000000000
+      internalID: -8595543183464359996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd0a592e5322740800000000000000
+      internalID: 5125718573190274331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c004658ef9ed510800000000000000
+      internalID: 1575872739854519318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ae356e6e043ae00800000000000000
+      internalID: 1054758098185742917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 417
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dbc3fe6be7c3550800000000000000
+      internalID: 6141923315989396747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 418
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438c73b6e006abe0800000000000000
+      internalID: -1466483637808757952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 417
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb4aa365b0aeb10800000000000000
+      internalID: 2011432648553315963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6f194fb256be880800000000000000
+      internalID: -8580653425563142417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 420
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1596968d1701d0800000000000000
+      internalID: -3384704131056461222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_59
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 401
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9f8af08a460560800000000000000
+      internalID: 7279587765510970296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_60
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 401
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5ce16b728ff380800000000000000
+      internalID: -8935279669244306166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_61
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 401
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85514d4b41591d0800000000000000
+      internalID: -3344744381367887635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 401
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cbfc48f92d5cb0800000000000000
+      internalID: -4873693075324812805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 416
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef0727ea0e8bc50800000000000000
+      internalID: 6681337087053070068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_64
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 416
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f692f77f41274c0800000000000000
+      internalID: -4291344441707761892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 416
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd68e33684ab9d20800000000000000
+      internalID: 3286401249400352254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_66
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 416
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9c602cb639cd70800000000000000
+      internalID: 9063835906685574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_67
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 417
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac733141a6ce2b20800000000000000
+      internalID: 3111642788445519020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 419
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d89d2695a09ff10800000000000000
+      internalID: 2303884063403511045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 417
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588da983cdfead00800000000000000
+      internalID: 986004384711018580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_70
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 416
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d83ff4455b8e5a0800000000000000
+      internalID: -6491739489131328149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef064eda0810db4d0800000000000000
+      internalID: -3117333714885648130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441ec93c2f77bac0800000000000000
+      internalID: -3839460329384963005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da482a55018384fe0800000000000000
+      internalID: -1204651257514261331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bba666e1e4e98b10800000000000000
+      internalID: 1984368769717676983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3bd1afcc9cd580800000000000000
+      internalID: -8800987156201129472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 386
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6014760ffcde1b0800000000000000
+      internalID: -5625611728084466016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 385
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345c50cd39adbeb0800000000000000
+      internalID: -4702416353219554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38fb598cd7d7970800000000000000
+      internalID: 8754291551137399755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 388
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80eaaed766d4c00800000000000000
+      internalID: 886477392656074998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_80
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 369
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6845c2475bd17ea0800000000000000
+      internalID: -5876674870912923541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_81
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 369
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb81f25289dd7a0800000000000000
+      internalID: -6350752614051169356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_82
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 369
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e31bbebd3a8b630800000000000000
+      internalID: 3943081638710296191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_83
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced04f576d15dcd30800000000000000
+      internalID: 4453305588083068396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb205ecd66f3530a0800000000000000
+      internalID: -6902541142850207042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 384
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef4b06f7fff9f80800000000000000
+      internalID: -8097472682440458562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_86
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993568e1537a090e0800000000000000
+      internalID: -2265126765980134503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf0e8a3a465049d0800000000000000
+      internalID: -2792136892159750218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_88
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 384
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd89d01a4d930d0800000000000000
+      internalID: -3442486651965088598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4582ad722d7260800000000000000
+      internalID: 7096866510798671845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7b1a2c957e60a0800000000000000
+      internalID: -6886437466621117461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3085587399a0bf60800000000000000
+      internalID: 8048118984955232318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aee0e1732b0db30800000000000000
+      internalID: 4310140793190804060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0608c1bee907fc0800000000000000
+      internalID: -3499122177834196817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0c2108a6535830800000000000000
+      internalID: 4058682968765107184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f053af61af7842f0800000000000000
+      internalID: -988399786868387592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10b850d72119810800000000000000
+      internalID: 1770216456706523588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409836886e1b7150800000000000000
+      internalID: 5871319973484859469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_99
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 369
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a4a5344228bf20800000000000000
+      internalID: 3438535991850475991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 337
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8aafcfd9e44f60800000000000000
+      internalID: 8017790384097364850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_101
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 337
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714fec11b90ccdc90800000000000000
+      internalID: -7143623136665209833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 337
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf783c9299c233560800000000000000
+      internalID: 7292221257985263611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 337
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6661340aa051b0800000000000000
+      internalID: -5669844995874066910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_104
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc740c6aa43eb0080800000000000000
+      internalID: -9220025902346254388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_105
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 352
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c2d787320d4c70800000000000000
+      internalID: 8956817671434979515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_106
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 352
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35860d899c2d025a0800000000000000
+      internalID: -6548002094902646701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_107
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 352
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3683a837369ec9720800000000000000
+      internalID: 2854412877195524195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_108
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792455595babd42f0800000000000000
+      internalID: -986927454267030889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_109
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 352
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cdf4a2473f532c0800000000000000
+      internalID: -4452384976334234566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_110
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 352
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4bd0223d92ce9e0800000000000000
+      internalID: -1590850581582465836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_111
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 352
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7c6fafe7f373d0800000000000000
+      internalID: -3209949500572664840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_112
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 320
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29ba78a30eaa9d0800000000000000
+      internalID: -2762148879449484551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_113
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976a7f7335ff1f90800000000000000
+      internalID: -6980591295870113901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5d253e3ba67ff0800000000000000
+      internalID: -38655263117582504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff69b71c22ecbb0800000000000000
+      internalID: -4913951929017106602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 320
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b25870ab2921cd30800000000000000
+      internalID: 4449883174171333302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178f976f5ae57530800000000000000
+      internalID: 3852242751766628114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5fbb3e19bccb460800000000000000
+      internalID: 7258900526865839610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e974f3bdab2bfb20800000000000000
+      internalID: 3169174787833756136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_120
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 323
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe73b467e547520800000000000000
+      internalID: 2698885938862877601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_121
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 305
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585857cfcf62ec00800000000000000
+      internalID: 928427411385112660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_122
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 305
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4e198bdb7b2ba0800000000000000
+      internalID: -6112655886396797757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_123
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 307
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849329ce276b2e520800000000000000
+      internalID: 2729944928851474760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_124
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 320
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca6ef8e17f437140800000000000000
+      internalID: 4716200585445927616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_125
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 320
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87610f3359b992150800000000000000
+      internalID: 5848376656241104504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 320
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042c82a5c4ce4fb0800000000000000
+      internalID: -4661572211167190002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_127
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 320
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eeea4176b204780800000000000000
+      internalID: -8700906758351163897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_128
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 321
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed75ecf5dd84b670800000000000000
+      internalID: 8553617542493863406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 322
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ee321b99acd280800000000000000
+      internalID: -9017145870411440061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_130
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 320
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d83dd5581a9bdb0800000000000000
+      internalID: -4775608335672832724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_131
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 320
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c8c9385f9fee20800000000000000
+      internalID: 3382097046453928941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850ea28773b8e690800000000000000
+      internalID: -7572605447548566135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eba94d8a7142cf0800000000000000
+      internalID: -278071263101272522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 306
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9a49e4fce18fe0800000000000000
+      internalID: -1188408290018943857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 306
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106635d45fb9dc090800000000000000
+      internalID: -8012576684155640319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34deab8d83b22b8f0800000000000000
+      internalID: -526310683294634685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_137
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 305
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315d0ef699740a20800000000000000
+      internalID: 3027678538914156849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_138
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb05eee7c600e4f0800000000000000
+      internalID: -801633277895701532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_139
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4c63a600bb8030800000000000000
+      internalID: 3498083078141398934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4961d24752c210800000000000000
+      internalID: 1351738782657368061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 290
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc54c0575689c840800000000000000
+      internalID: 5244870950624976124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_142
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305edaa139389000800000000000000
+      internalID: 42847081942896696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_143
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 291
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd912a58b14f6c230800000000000000
+      internalID: 3658880146328394204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23472ea869cc5eac0800000000000000
+      internalID: -3826427361434110926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2e874eaedd7070800000000000000
+      internalID: 8105879744442936872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_146
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 288
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542111afccf6fb160800000000000000
+      internalID: 7043471268390179397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8e07b2b2aba630800000000000000
+      internalID: 3939421187524693963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_148
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 288
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5c35da4ebb4ec0800000000000000
+      internalID: -3581559850028737476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_149
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 288
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3acab8b5e0be2a0800000000000000
+      internalID: -6707251433690061917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_150
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26966022d82d5740800000000000000
+      internalID: 5142311232478811695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_151
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 288
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e05428b65c1a06b0800000000000000
+      internalID: -5329416050257407774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_152
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 289
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043567f43bdc32380800000000000000
+      internalID: -8997121460540124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_153
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e33e5b28813820800000000000000
+      internalID: 2896245755221369322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_154
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41889c440c7fa8280800000000000000
+      internalID: -9040140896833009644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_155
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 288
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7945fffedc265f60800000000000000
+      internalID: 8022649122495744378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b472d687ade73a0800000000000000
+      internalID: -6665650187699533044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_157
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4ba95d92d6ff50800000000000000
+      internalID: 6914945851130072962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_158
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 256
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a750f0ec887990800000000000000
+      internalID: -7388000290968460325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb579f65631d0840800000000000000
+      internalID: 5191827271812865019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_160
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6791f09d11fd7cd00800000000000000
+      internalID: 993007510607567222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_161
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03dab6ae981e4d0800000000000000
+      internalID: -3107050627987066672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_162
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 259
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b7d86a9f308f60800000000000000
+      internalID: 8034491667645444887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_163
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860bac08cabcdea0800000000000000
+      internalID: -5846592847864985977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_164
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee20b8253f214c50800000000000000
+      internalID: 6647646430337969888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_165
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e64ec2ecc63a00800000000000000
+      internalID: 736000863617081815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_166
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e41ca4e4d4ee30800000000000000
+      internalID: 4531981203646243160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8e51c018970c00800000000000000
+      internalID: 866828651023207879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_168
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 256
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3df1a33b4ded460800000000000000
+      internalID: 7268480714861958090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 257
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d559ea0cdd95890800000000000000
+      internalID: -7468694687384773253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_170
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 257
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3851d1ceb4d3b57a0800000000000000
+      internalID: -6387444250201746045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_171
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 257
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc7b5df9c73dee0800000000000000
+      internalID: -1237508446669517411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_172
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 257
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5145f10d7b9ac0800000000000000
+      internalID: -3847344009294815854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_173
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 256
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b190113a72cd0bb0800000000000000
+      internalID: -4968100983854820935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_174
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 256
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165f78f612c1d480800000000000000
+      internalID: -8876099986656373221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_175
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b61c1b876042e00800000000000000
+      internalID: 1018946531140660102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_176
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 256
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8b3d878bb384810800000000000000
+      internalID: 1749714118720600264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_177
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 257
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec8b2f6e67ea0c0800000000000000
+      internalID: -4562578638192980463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_178
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 258
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc582689fb0a981c0800000000000000
+      internalID: -4500889607824308789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_179
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62a5cc598fe3a30800000000000000
+      internalID: 4197065225018156751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_180
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 256
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a325a578400200800000000000000
+      internalID: 144194858194804883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_181
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 242
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb52fbc98c0af90800000000000000
+      internalID: -6944330049857929436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_182
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 232
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d2540d69d15ee0800000000000000
+      internalID: -1273998157321940904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 242
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d402f5e47f878d0800000000000000
+      internalID: -2848254848336376442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_184
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 208
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751195ff07674430800000000000000
+      internalID: 3767092931560805747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_185
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 229
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453f7e0a3efe1050800000000000000
+      internalID: 5773331297640330564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_186
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 212
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb68444057c678440800000000000000
+      internalID: 4938034766273611452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_187
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 234
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247cdb1dc95571d0800000000000000
+      internalID: -3353675610036866002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_188
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 208
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ac7b87f96ebf60800000000000000
+      internalID: 8051989695703066853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_189
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 232
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa76344d25fa900800000000000000
+      internalID: 697867538883127946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_190
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce129bece24417440800000000000000
+      internalID: 4931798034774827500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_191
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d744b01e52b0980800000000000000
+      internalID: -8571715817282699959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_192
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395cb3d1081a81c70800000000000000
+      internalID: 8942074631762462099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_193
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 224
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a0b6061ce73f30800000000000000
+      internalID: 4555369127454220302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_194
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab6064405f140b0800000000000000
+      internalID: -5746042250844521840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2079557f99e4e0800000000000000
+      internalID: -1951853637127885209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_196
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 208
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901814fceb054320800000000000000
+      internalID: 2541450677055918238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_197
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e1c0aca417a810800000000000000
+      internalID: 1776411309684941822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_198
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8dd1632127201d0800000000000000
+      internalID: -3386018547286288131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_199
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37062874af2b35410800000000000000
+      internalID: 1464711091836838003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_200
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9ce7538bf5ccc0800000000000000
+      internalID: -3691267778025842094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be35eb30a6db470800000000000000
+      internalID: 8411996243308571489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_202
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255b6ffe97b062b0800000000000000
+      internalID: -5593268843676216032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_203
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081a638531391740800000000000000
+      internalID: 5123180157018445835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_204
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 192
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f54c7da366ea30800000000000000
+      internalID: 4244189295608722383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_205
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 192
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0298b64fdb8ad960800000000000000
+      internalID: 7627562709985825292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_206
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d904340ff94147f0800000000000000
+      internalID: -630141113219151401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_207
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 192
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10f5889c6642830800000000000000
+      internalID: 4045471381047935412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_208
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c38941bfd11580800000000000000
+      internalID: -8858053039525478147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_209
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 193
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71d6c61b756a620800000000000000
+      internalID: 2785009839115147216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_210
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfbccfc2ec1118d0800000000000000
+      internalID: -2877486926438547491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 160
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf9b9aa0b5212c0800000000000000
+      internalID: -4462404179415401519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_212
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b83b0473c11680800000000000000
+      internalID: -8786026494851239439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_213
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82cbb1d6b183420800000000000000
+      internalID: 2609866139491903738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_214
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25232f5863caac470800000000000000
+      internalID: 8415728203870646866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_215
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc3119a72199890800000000000000
+      internalID: -7450903790878470260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_216
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 160
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142648a37426bd40800000000000000
+      internalID: 5599703265844798482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_217
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be5457b311d7a00800000000000000
+      internalID: 755779259536370552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_218
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad996ff558114f0800000000000000
+      internalID: -859759406645388619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_219
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91752c9f40fe82390800000000000000
+      internalID: -7842755946416548071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_220
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 160
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2117b02f5907cfb0800000000000000
+      internalID: -4627719787924483796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_221
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 161
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31ec448d6d4ce40800000000000000
+      internalID: 5675897654749303800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_222
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 162
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebfc47024c4c380800000000000000
+      internalID: -8951814515627934195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_223
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 160
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84724a6be94914d0800000000000000
+      internalID: -3163415987802180466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_224
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e363fca29c1a86f0800000000000000
+      internalID: -681700977300773916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_225
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 160
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87daf65316a83aa70800000000000000
+      internalID: 8837059043944017272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_226
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 160
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a55a2c2a6858b60800000000000000
+      internalID: 7747746767569246739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_227
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814898ba4277ebea0800000000000000
+      internalID: -5855111466154621928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_228
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d21c9fa75586dac0800000000000000
+      internalID: -3830727821377137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_229
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7341eb7c9f3c86f0800000000000000
+      internalID: -681099502313979009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_230
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 112
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d6c7cf7a07caa0800000000000000
+      internalID: -6140928022967561296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_231
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc821a3f8a9104b0800000000000000
+      internalID: -5475925731960517389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_232
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1b8ee7dbf8ff50800000000000000
+      internalID: 6915554132666031245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_233
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da1ce7cbd7f44a0800000000000000
+      internalID: -6606923879795282587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_234
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 112
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f16a41b93f680f0800000000000000
+      internalID: -1114936010335707299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_235
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 112
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8c3c5847f8fdb0800000000000000
+      internalID: -4757781116159751502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_236
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5fc255a6900ec0800000000000000
+      internalID: -3602714065093304629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_237
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22427c1182e32770800000000000000
+      internalID: 8584954358854205996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_238
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e89d8003d93d6f0800000000000000
+      internalID: -661011890660864446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_239
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 128
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e245da5b2af460800000000000000
+      internalID: 7276175817095438671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_240
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 129
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e3a39038433140800000000000000
+      internalID: 4698178209750182070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_241
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 130
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66499010a849d70b0800000000000000
+      internalID: -5729259830501600154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_242
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece56c978d65539e0800000000000000
+      internalID: -1642311001350709554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_243
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957649e474c9b930800000000000000
+      internalID: 4159571737262323089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b112a3fc3429700800000000000000
+      internalID: 545573062177790823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_245
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55409cc4bb5d537e0800000000000000
+      internalID: -1786286676758690731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444c8f3b57410dd0800000000000000
+      internalID: -2521655859117013949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_247
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256558cb14296ce0800000000000000
+      internalID: -1411557306460183262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_248
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d8f0c82cf74f30800000000000000
+      internalID: 4559890399702341659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_249
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcbf8ff2d80eca0800000000000000
+      internalID: -5989632267222528084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_250
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33abaae4be60cee70800000000000000
+      internalID: 9145692550989527603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_251
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef9e0a5f41484c0800000000000000
+      internalID: -4286277900150637007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5d41b17523f2b0800000000000000
+      internalID: -5552052745381520452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b0b9056f877460800000000000000
+      internalID: 7239412590138407402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_252
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b92c9c4d896090800000000000000
+      internalID: -8040740299516300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260dd2959b1449310800000000000000
+      internalID: 1410824847594737762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_254
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895dc9433b8d7e9b0800000000000000
+      internalID: -5050830192879282792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_255
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 465
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ffc9f7aa37bf10800000000000000
+      internalID: 2285359829038921307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_256
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db9c3ec6e092800800000000000000
+      internalID: 588017087189466520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_257
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 433
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266348533643f9aa0800000000000000
+      internalID: -6152140965260544414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 465
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b22fa56ed94a30800000000000000
+      internalID: 4200132655811049600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_259
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35319f8d988fdf2d0800000000000000
+      internalID: -3243162885702479021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_260
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 393
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f305b4dc291e10800000000000000
+      internalID: 2168813987637228204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1dfc646b13f830800000000000000
+      internalID: 4103653803603860219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_262
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077f28a3c8f0d870800000000000000
+      internalID: 8705731598931162889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_263
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec96421f50fde7f0800000000000000
+      internalID: -581544485741749012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_264
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cbef4676086ac30800000000000000
+      internalID: 4370321669974047747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_265
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547744ddfdafc170800000000000000
+      internalID: 8200964752164746327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_266
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74950af6822461c0800000000000000
+      internalID: -4511442963602762628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_267
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27ef3568267b390800000000000000
+      internalID: -7802659500321770762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_268
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e4d2189bccb56e0800000000000000
+      internalID: -1847658124997210494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALL SPIRTES_269
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c650644646f4140800000000000000
+      internalID: 4706090517459725434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
